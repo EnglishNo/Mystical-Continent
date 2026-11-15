@@ -1,6 +1,5 @@
 <img width="1671" height="941" alt="신비한 대륙_ 푸른 바다를 품은 어둠" src="https://github.com/user-attachments/assets/6b62e620-f1e6-40a8-af04-8653e989d23b" />
 
-[readme.md](https://github.com/user-attachments/files/34866893/readme.md)
 # 🌊 Mystical Continent (신비의 대륙) v2.0 — 「푸른 바다를 감싸는 어둠」 패치 노트
 
 > **Update Version:** `v2.0` (Offline Singleplay Edition)
